@@ -1,0 +1,43 @@
+.ts-banner-section img,.ts-service-section img {
+	width: 100%;
+}
+.ts-banner-section h1,.ts-banner-section p,
+.ts-banner-section-btn a,.ts-service-section h4 {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+.ts-banner-section-btn .wp-block-button__link,
+.ts-about-section-btn .wp-block-button__link {
+	border-top: none;
+    border-bottom: solid 3px #3a2a34 !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+    color: #fff !important;
+    padding: 17px 17px !important;
+}
+.ts-banner-section-btn .wp-block-button__link:hover,
+.ts-about-section-btn .wp-block-button__link:hover {
+	
+	background: #000 !important;
+}
+.ts-service-section.wp-block-columns {
+	gap: 0em !important;
+}
+.ts-service-box1 {
+	border-top: 5px solid #b73558;
+}
+.ts-service-box2 {
+	border-top: 5px solid #3a2a34;
+}
+.ts-about-content .wp-block {
+	margin: 0px !important;
+}
+.ts-about-content .wp-block p  {
+	margin-bottom: 5px !important;
+}
+.ts-about-section-btn .wp-block-button__link {
+	margin-top: 25px !important;
+}
+.wp-block {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
